@@ -62,3 +62,9 @@ section{
     padding-right: 13px;
     padding-left: 13px;
 }
+button:hover{
+    background-color: hsl(300, 69%, 71%);
+}
+.fa-brands:hover{
+    background-color: hsl(300, 69%, 71%);
+}
